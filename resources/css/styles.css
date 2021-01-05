@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lemonchiffon;
+}
+
+.pageTitle {
+    font-weight: bold;
+    text-align: center;
+    color: royalblue;
+    font-size: 75px;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 40px;
+    text-align:  center;
+    color: lightblue;
+    
+}
+
+table {
+    width: 65%;
+    margin: auto;
+    border: 2px solid lightsteelblue;
+    border-spacing: 2px;
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    border-color: grey;
+    font-variant: normal;
+}
+th {
+    display: table-cell;
+    border: 2px solid lightsteelblue;
+    border-spacing: 2px;
+    background-color: mediumaquamarine;
+    back
+    font-weight: 700;
+    
+    
+}
+
+tr {
+    display: table-row;
+    background-color: lightcyan;
+    vertical-align: middle;
+    border-color: lightsteelblue;
+}
+
+.code {
+    background-color: lightgray;
+}
+
